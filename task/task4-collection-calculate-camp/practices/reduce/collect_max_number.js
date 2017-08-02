@@ -9,6 +9,8 @@ function collect_max_number(collection) {
     }
   }
 
+
+
   return max;
 }
 
